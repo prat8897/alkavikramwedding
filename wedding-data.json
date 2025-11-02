@@ -1,0 +1,140 @@
+{
+  "wedding": {
+    "coupleNames": "Jane & John",
+    "dateTime": "2026-06-15T15:00:00"
+  },
+  "story": "We met on a sunny day in Central Park, both reaching for the last coffee at the vendor stand. What started as a friendly conversation over shared coffee turned into countless adventures, late-night talks, and a love that grew stronger with each passing day. Now, we can't wait to celebrate our forever with the people who mean the most to us.",
+  "schedule": [
+    {
+      "title": "Ceremony",
+      "time": "3:00 PM",
+      "description": "Join us as we exchange vows in an intimate outdoor ceremony surrounded by nature.",
+      "location": "Garden Pavilion"
+    },
+    {
+      "title": "Cocktail Hour",
+      "time": "4:00 PM - 5:00 PM",
+      "description": "Enjoy drinks, hors d'oeuvres, and mingling with friends and family.",
+      "location": "Terrace"
+    },
+    {
+      "title": "Reception",
+      "time": "5:00 PM - 10:00 PM",
+      "description": "Dinner, dancing, toasts, and celebration! Dinner will be served at 6:00 PM.",
+      "location": "Grand Ballroom"
+    },
+    {
+      "title": "After Party",
+      "time": "10:00 PM - 1:00 AM",
+      "description": "Keep the party going! Casual attire, dancing, and late-night snacks.",
+      "location": "Lounge Bar"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ceremony & Reception Venue",
+      "address": "123 Beautiful Lane, Garden City, CA 90210",
+      "parking": "Free parking available on-site. Valet service also available.",
+      "notes": "The venue is wheelchair accessible. Please arrive 30 minutes early for ceremony seating.",
+      "googleMapsUrl": "https://maps.google.com/?q=123+Beautiful+Lane+Garden+City+CA",
+      "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4!2d-118.2437!3d34.0522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAzJzA4LjAiTiAxMTjCsDE0JzM3LjMiVw!5e0!3m2!1sen!2sus!4v1234567890"
+    }
+  ],
+  "accommodations": {
+    "intro": "We've reserved room blocks at the following hotels for your convenience. Please book by May 15th to receive the group rate.",
+    "hotels": [
+      {
+        "name": "Grand Hotel Downtown",
+        "address": "456 Main Street, Garden City, CA 90210",
+        "distance": "0.5 miles from venue",
+        "phone": "(555) 123-4567",
+        "bookingLink": "https://example.com/hotel-booking",
+        "notes": "Use code WEDDING2026 for group rate: $159/night"
+      },
+      {
+        "name": "Cozy Inn & Suites",
+        "address": "789 Oak Avenue, Garden City, CA 90210",
+        "distance": "1.2 miles from venue",
+        "phone": "(555) 234-5678",
+        "bookingLink": "https://example.com/hotel-booking",
+        "notes": "Complimentary breakfast included. Group rate: $129/night"
+      },
+      {
+        "name": "Luxury Resort & Spa",
+        "address": "321 Beach Boulevard, Garden City, CA 90210",
+        "distance": "2.5 miles from venue",
+        "phone": "(555) 345-6789",
+        "bookingLink": "https://example.com/hotel-booking",
+        "notes": "Pool and spa access. Group rate: $199/night"
+      }
+    ]
+  },
+  "registry": {
+    "message": "Your presence is the greatest gift! But if you'd like to help us start our new life together, we've registered at the following stores:",
+    "links": [
+      {
+        "store": "Amazon",
+        "url": "https://www.amazon.com/wedding/registry/YOUR-REGISTRY-ID"
+      },
+      {
+        "store": "Target",
+        "url": "https://www.target.com/gift-registry/YOUR-REGISTRY-ID"
+      },
+      {
+        "store": "Crate & Barrel",
+        "url": "https://www.crateandbarrel.com/gift-registry/YOUR-REGISTRY-ID"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "What should I wear?",
+      "answer": "The dress code is semi-formal/cocktail attire. The ceremony will be outdoors, so please dress accordingly. Ladies, consider wearing block heels or wedges for the lawn."
+    },
+    {
+      "question": "Can I bring a plus-one?",
+      "answer": "Due to venue capacity, we can only accommodate guests formally invited on your invitation. If you received a plus-one, it will be indicated on your invitation."
+    },
+    {
+      "question": "Are children welcome?",
+      "answer": "We love your little ones, but we've decided to make this an adults-only celebration (18+) so everyone can relax and enjoy the evening. We appreciate your understanding!"
+    },
+    {
+      "question": "Will there be transportation provided?",
+      "answer": "We recommend using ride-share services or designated drivers. The venue has ample parking, but please drink responsibly!"
+    },
+    {
+      "question": "What time should I arrive?",
+      "answer": "Please arrive by 2:30 PM for the 3:00 PM ceremony. This will give you time to park, find your seat, and get settled before the ceremony begins."
+    },
+    {
+      "question": "What if I have dietary restrictions?",
+      "answer": "Please let us know about any dietary restrictions or allergies when you RSVP. Our caterer can accommodate most dietary needs including vegetarian, vegan, gluten-free, and kosher options."
+    },
+    {
+      "question": "Will the ceremony and reception be indoors or outdoors?",
+      "answer": "The ceremony will be outdoors in the garden, weather permitting. The reception will be indoors in the climate-controlled ballroom. We have a backup indoor location ready in case of inclement weather."
+    },
+    {
+      "question": "Is there a wedding hashtag?",
+      "answer": "Yes! Please use #JaneAndJohnForever when posting photos on social media. We can't wait to see your pictures!"
+    }
+  ],
+  "rsvp": {
+    "message": "Please RSVP by May 1st, 2026. We can't wait to celebrate with you!",
+    "link": "https://forms.google.com/your-rsvp-form-link"
+  },
+  "contact": [
+    {
+      "name": "Jane Smith (Bride)",
+      "email": "jane@email.com",
+      "phone": "(555) 111-2222"
+    },
+    {
+      "name": "John Doe (Groom)",
+      "email": "john@email.com",
+      "phone": "(555) 333-4444"
+    }
+  ],
+  "footer": "With love, Jane & John ❤️ June 15, 2026"
+}
