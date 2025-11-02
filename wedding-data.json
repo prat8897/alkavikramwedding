@@ -40,35 +40,6 @@
       "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.889216954104!2d74.0071068!3d18.169016600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2f71c27457ff5%3A0x31fb9c9b80a723b2!2sThe%20Aryavart%20Escape%2C%20Nhavi!5e0!3m2!1sen!2sin!4v1762089215690!5m2!1sen!2sin"
     }
   ],
-  "accommodations": {
-    "intro": "We've reserved room blocks at the following hotels for your convenience. Please book by May 15th to receive the group rate.",
-    "hotels": [
-      {
-        "name": "Grand Hotel Downtown",
-        "address": "456 Main Street, Garden City, CA 90210",
-        "distance": "0.5 miles from venue",
-        "phone": "(555) 123-4567",
-        "bookingLink": "https://example.com/hotel-booking",
-        "notes": "Use code WEDDING2026 for group rate: $159/night"
-      },
-      {
-        "name": "Cozy Inn & Suites",
-        "address": "789 Oak Avenue, Garden City, CA 90210",
-        "distance": "1.2 miles from venue",
-        "phone": "(555) 234-5678",
-        "bookingLink": "https://example.com/hotel-booking",
-        "notes": "Complimentary breakfast included. Group rate: $129/night"
-      },
-      {
-        "name": "Luxury Resort & Spa",
-        "address": "321 Beach Boulevard, Garden City, CA 90210",
-        "distance": "2.5 miles from venue",
-        "phone": "(555) 345-6789",
-        "bookingLink": "https://example.com/hotel-booking",
-        "notes": "Pool and spa access. Group rate: $199/night"
-      }
-    ]
-  },
 
   "faq": [
     {

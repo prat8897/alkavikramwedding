@@ -55,30 +55,6 @@ function populateWebsite(data) {
         </div>
     `).join('');
 
-    // Accommodations
-    document.getElementById('accommodationsIntro').textContent = data.accommodations.intro;
-    const accommodationsGrid = document.getElementById('accommodationsGrid');
-    accommodationsGrid.innerHTML = data.accommodations.hotels.map(hotel => `
-        <div class="accommodation-card">
-            <h4>${hotel.name}</h4>
-            <p>${hotel.address}</p>
-            <p><strong>Distance:</strong> ${hotel.distance}</p>
-            ${hotel.phone ? `<p><strong>Phone:</strong> ${hotel.phone}</p>` : ''}
-            ${hotel.bookingLink ? `<a href="${hotel.bookingLink}" target="_blank" class="btn" style="font-size: 0.9rem; padding: 0.6rem 1.5rem;">Book Now</a>` : ''}
-            ${hotel.notes ? `<p style="margin-top: 0.5rem; font-style: italic;">${hotel.notes}</p>` : ''}
-        </div>
-    `).join('');
-
-    // Registry
-    document.getElementById('registryIntro').textContent = data.registry.message;
-    const registryGrid = document.getElementById('registryGrid');
-    registryGrid.innerHTML = data.registry.links.map(registry => `
-        <div class="registry-item">
-            <h4>${registry.store}</h4>
-            <a href="${registry.url}" target="_blank" class="btn">Visit Registry</a>
-        </div>
-    `).join('');
-
     // FAQ
     const faqContent = document.getElementById('faqContent');
     faqContent.innerHTML = data.faq.map(item => `
@@ -87,10 +63,6 @@ function populateWebsite(data) {
             <p>${item.answer}</p>
         </div>
     `).join('');
-
-    // RSVP
-    document.getElementById('rsvpText').textContent = data.rsvp.message;
-    document.getElementById('rsvpLink').href = data.rsvp.link;
 
     // Contact
     const contactInfo = document.getElementById('contactInfo');
