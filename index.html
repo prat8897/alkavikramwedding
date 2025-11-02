@@ -27,6 +27,10 @@
             background-color: var(--background);
         }
 
+        html {
+            scroll-padding-top: 80px;
+        }
+
         .header {
             background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
             color: white;
@@ -338,9 +342,32 @@
                 gap: 1rem;
             }
 
+            nav {
+                padding: 0;
+            }
+
             nav ul {
-                flex-direction: column;
-                align-items: center;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                justify-content: flex-start;
+                padding: 0.5rem 0.5rem;
+                gap: 0;
+            }
+
+            nav ul::-webkit-scrollbar {
+                display: none;
+            }
+
+            nav a {
+                padding: 0.6rem 1rem;
+                font-size: 0.85rem;
+                white-space: nowrap;
+                border-bottom: 2px solid transparent;
+            }
+
+            nav a:active {
+                border-bottom-color: var(--secondary-color);
             }
 
             section h2 {
