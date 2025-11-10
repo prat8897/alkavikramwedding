@@ -60,23 +60,9 @@ function populateWebsite(data) {
     faqContent.innerHTML = data.faq.map(item => `
         <div class="faq-item">
             <h4>${item.question}</h4>
-            <p>${item.answer}</p>
+            <p style="white-space: pre-line;">${item.answer}</p>
         </div>
     `).join('');
-
-    // Contact
-    const contactInfo = document.getElementById('contactInfo');
-    contactInfo.innerHTML = `
-        <h3>Questions?</h3>
-        <p>Feel free to reach out to us!</p>
-        ${data.contact.map(person => `
-            <p style="margin-top: 1rem;">
-                <strong>${person.name}</strong><br>
-                ${person.email ? `Email: <a href="mailto:${person.email}" style="color: var(--secondary-color);">${person.email}</a><br>` : ''}
-                ${person.phone ? `Phone: ${person.phone}` : ''}
-            </p>
-        `).join('')}
-    `;
 
     // Footer
     document.getElementById('footerText').textContent = data.footer;

@@ -1,92 +1,44 @@
 {
   "wedding": {
     "coupleNames": "Alka & Vikram",
-    "dateTime": "2025-11-21T13:00:00+05:30"
+    "dateTime": "2025-11-22T08:00:00+05:30"
   },
-  "story": "We met on a sunny day in Central Park, both reaching for the last coffee at the vendor stand. What started as a friendly conversation over shared coffee turned into countless adventures, late-night talks, and a love that grew stronger with each passing day. Now, we can't wait to celebrate our forever with the people who mean the most to us.",
+  "story": "It all began in college...same class, same batch, and a random project submission that somehow led to us to talk to each other. Little did we know that it would lead to endless conversations, laughter, and late-night talks. Over time, our bond  turned into something deeper. Now, we're finally ready to say 'forever' and celebrate it with all the people who mean the World to us!",
   "schedule": [
     {
-      "title": "Ceremony",
-      "time": "3:00 PM",
-      "description": "Join us as we exchange vows in an intimate outdoor ceremony surrounded by nature.",
-      "location": "Garden Pavilion"
+      "title": "Haldi Ceremony",
+      "time": "4:00 PM",
+      "description": "Let's kick off the festivities with some color, laughter, and haldi magic!",
+      "location": "Arch Lawn"
     },
     {
-      "title": "Cocktail Hour",
-      "time": "4:00 PM - 5:00 PM",
-      "description": "Enjoy drinks, hors d'oeuvres, and mingling with friends and family.",
+      "title": "Sangeet / Get Together",
+      "time": "8:00 PM",
+      "description": "An evening of music, dance, and good vibes before the big day!",
       "location": "Terrace"
     },
     {
-      "title": "Reception",
-      "time": "5:00 PM - 10:00 PM",
-      "description": "Dinner, dancing, toasts, and celebration! Dinner will be served at 6:00 PM.",
-      "location": "Grand Ballroom"
-    },
-    {
-      "title": "After Party",
-      "time": "10:00 PM - 1:00 AM",
-      "description": "Keep the party going! Casual attire, dancing, and late-night snacks.",
-      "location": "Lounge Bar"
+      "title": "Wedding",
+      "time": "8:00 AM",
+      "description": "Our forever begins here — join us as we tie the knot.",
+      "location": "Amphitheater"
     }
   ],
   "locations": [
     {
       "name": "Ceremony & Reception Venue",
-      "address": "Bhongawli-Nhavi Rd, Nhavi, Maharashtra 412205",
-      "parking": "Free parking available on-site. Valet service also available.",
-      "notes": "The venue is wheelchair accessible. Please arrive 30 minutes early for ceremony seating.",
+      "address": "Aryavart Escape, Nhavi, Maharashtra 412205",
+      "parking": "Parking is available on the premises.",
+      "notes": "All wedding events will be held at the same venue.",
       "googleMapsUrl": "https://maps.app.goo.gl/CjJR23grhrn5JqDD6",
       "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.889216954104!2d74.0071068!3d18.169016600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2f71c27457ff5%3A0x31fb9c9b80a723b2!2sThe%20Aryavart%20Escape%2C%20Nhavi!5e0!3m2!1sen!2sin!4v1762089215690!5m2!1sen!2sin"
     }
   ],
-
   "faq": [
     {
       "question": "What should I wear?",
-      "answer": "The dress code is semi-formal/cocktail attire. The ceremony will be outdoors, so please dress accordingly. Ladies, consider wearing block heels or wedges for the lawn."
-    },
-    {
-      "question": "Can I bring a plus-one?",
-      "answer": "Due to venue capacity, we can only accommodate guests formally invited on your invitation. If you received a plus-one, it will be indicated on your invitation."
-    },
-    {
-      "question": "Are children welcome?",
-      "answer": "We love your little ones, but we've decided to make this an adults-only celebration (18+) so everyone can relax and enjoy the evening. We appreciate your understanding!"
-    },
-    {
-      "question": "Will there be transportation provided?",
-      "answer": "We recommend using ride-share services or designated drivers. The venue has ample parking, but please drink responsibly!"
-    },
-    {
-      "question": "What time should I arrive?",
-      "answer": "Please arrive by 2:30 PM for the 3:00 PM ceremony. This will give you time to park, find your seat, and get settled before the ceremony begins."
-    },
-    {
-      "question": "What if I have dietary restrictions?",
-      "answer": "Please let us know about any dietary restrictions or allergies when you RSVP. Our caterer can accommodate most dietary needs including vegetarian, vegan, gluten-free, and kosher options."
-    },
-    {
-      "question": "Will the ceremony and reception be indoors or outdoors?",
-      "answer": "The ceremony will be outdoors in the garden, weather permitting. The reception will be indoors in the climate-controlled ballroom. We have a backup indoor location ready in case of inclement weather."
-    },
-    {
-      "question": "Is there a wedding hashtag?",
-      "answer": "Yes! Please use #JaneAndJohnForever when posting photos on social media. We can't wait to see your pictures!"
+      "answer": "Here’s the dress code —\n\n21st November Evening – Haldi:\nLadies: Pastel Pink 🌸\nGentlemen: Pastel Green 🥝\n(Please avoid yellow and white)\n\n21st November Night – Get Together / Sangeet Night:\nWestern outfits ✨\n\n22nd November – Wedding:\nTraditional outfits (Please avoid red, white, golden, cream, and ivory)"
     }
   ],
-
-  "contact": [
-    {
-      "name": "Jane Smith (Bride)",
-      "email": "jane@email.com",
-      "phone": "(555) 111-2222"
-    },
-    {
-      "name": "John Doe (Groom)",
-      "email": "john@email.com",
-      "phone": "(555) 333-4444"
-    }
-  ],
-  "footer": "With love, Jane & John ❤️ June 15, 2026"
+  "footer": "With ❤️, Alka & Vikram"
 }
