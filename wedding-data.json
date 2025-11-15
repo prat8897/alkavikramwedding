@@ -1,35 +1,38 @@
 {
   "wedding": {
     "coupleNames": "Alka & Vikram",
-    "dateTime": "2025-11-22T08:00:00+05:30"
+    "dateTime": "2025-11-21T08:00:00+05:30"
   },
   "story": "It all began in college...same class, same batch, and a random project submission that somehow led to us to talk to each other. Little did we know that it would lead to endless conversations, laughter, and late-night talks. Over time, our bond  turned into something deeper. Now, we're finally ready to say 'forever' and celebrate it with all the people who mean the World to us!",
   "schedule": [
     {
       "title": "Haldi Ceremony",
-      "time": "4:00 PM",
-      "description": "Let's kick off the festivities with some color, laughter, and haldi magic!",
-      "location": "Arch Lawn"
+      "time": "21st November, 4:00 PM",
+      "description": "Start off the festivities with some color, laughter, and haldi magic!",
+      "location": "Arch Lawn",
+      "image": "assets/Gemini_Generated_Image_z1x8pdz1x8pdz1x8.png"
     },
     {
       "title": "Sangeet / Get Together",
-      "time": "8:00 PM",
+      "time": "21st November, 8:00 PM",
       "description": "An evening of music, dance, and good vibes before the big day!",
-      "location": "Terrace"
+      "location": "Bamboo Cafe Lawn",
+      "image": "assets/Gemini_Generated_Image_bgbg9lbgbg9lbgbg.png"
     },
     {
       "title": "Wedding",
-      "time": "8:00 AM",
-      "description": "Our forever begins here — join us as we tie the knot.",
-      "location": "Amphitheater"
+      "time": "22st November, 8:00 AM",
+      "description": "Our forever begins here - join us as we tie the knot.",
+      "location": "Amphitheater",
+      "image": "assets/Gemini_Generated_Image_20fkm20fkm20fkm2.png"
     }
   ],
   "locations": [
     {
-      "name": "Ceremony & Reception Venue",
+      "name": "Venue",
       "address": "Aryavart Escape, Nhavi, Maharashtra 412205",
       "parking": "Parking is available on the premises.",
-      "notes": "All wedding events will be held at the same venue.",
+      "notes": "All the events will be held at the same venue.",
       "googleMapsUrl": "https://maps.app.goo.gl/CjJR23grhrn5JqDD6",
       "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.889216954104!2d74.0071068!3d18.169016600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2f71c27457ff5%3A0x31fb9c9b80a723b2!2sThe%20Aryavart%20Escape%2C%20Nhavi!5e0!3m2!1sen!2sin!4v1762089215690!5m2!1sen!2sin"
     }
@@ -37,7 +40,7 @@
   "faq": [
     {
       "question": "What should I wear?",
-      "answer": "Here’s the dress code —\n\n21st November Evening – Haldi:\nLadies: Pastel Pink 🌸\nGentlemen: Pastel Green 🥝\n(Please avoid yellow and white)\n\n21st November Night – Get Together / Sangeet Night:\nWestern outfits ✨\n\n22nd November – Wedding:\nTraditional outfits (Please avoid red, white, golden, cream, and ivory)"
+      "answer": "Here’s the dress code -\n\n21st November Evening - Haldi:\nLadies: Pastel Pink 🌸\nGentlemen: Pastel Green 🥝\n(Please avoid yellow and white)\n\n21st November Night - Get Together / Sangeet Night:\nWestern outfits ✨\n\n22nd November - Wedding:\nTraditional outfits (Please avoid red, white, golden, cream, and ivory)"
     }
   ],
   "footer": "With ❤️, Alka & Vikram"
